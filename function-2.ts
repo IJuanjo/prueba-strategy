@@ -1,3 +1,3 @@
-export function greet() {
-    return "tu no mete kbra.."
+export function greet(name) {
+    return `tu no mete kbra ${name}..`
 }
