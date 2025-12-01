@@ -8,5 +8,5 @@ export function myFunctionFeat() {
 export function greet() {
     const isMetakBra = greetGa("") === "tu no mete kbra zarambiche.com..";
 
-    return isMetakBra ? "GAA" : "🦀"
+    return isMetakBra ? "Flow" : "🦀"
 }
