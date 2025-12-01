@@ -6,7 +6,7 @@ export function myFunctionFeat() {
 }
 
 export function greet() {
-    const isMetakBra = greetGa("") === "tu no mete kbra zarambiche..";
+    const isMetakBra = greetGa("") === "tu no mete kbra zarambiche.com..";
 
     return isMetakBra ? "GAA" : "🦀"
 }
