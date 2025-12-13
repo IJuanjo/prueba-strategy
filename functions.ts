@@ -5,3 +5,7 @@ export function calculate(numberA:number) {
 export function tukiTuki() {
     return "tuki tuki papapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapa"
 }
+
+export function tukitkuagresuvoz() {
+    return "tuki tuki AGRESIVO VOZ"
+}
