@@ -3,7 +3,7 @@ export function calculate(numberA:number) {
 }
 
 export function tukiTuki() {
-    return "tuki tuki papapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapa"
+    return "tuki tuki papapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapap23123123apapapapapapapa"
 }
 
 export function tukitkuagresuvoz() {
