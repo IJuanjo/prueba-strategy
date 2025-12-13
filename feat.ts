@@ -10,3 +10,6 @@ export function greet() {
 
     return isMetakBra ? "Flow" : "🦀"
 }
+function algo() {
+    console.log("algo")
+}
